@@ -1,23 +1,19 @@
 import logo from './logo.svg';
+import logoLarge from './logoLarge.svg'
 import './App.css';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p className="App-logo">{"{Socialpage}"}</p>
       </header>
+      <div className="body">
+        <p className="minhThu">Hello Minh Thu LOL</p>
+        <div className="inputClass">
+          <input type="text" className="messageInput" placeholder="💬 What do you want to send?"></input>
+        </div>
+      </div>
     </div>
   );
 }
