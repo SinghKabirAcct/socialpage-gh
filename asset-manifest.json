@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/socialpage-gh/static/css/main.bea27d90.chunk.css",
+    "main.js": "/socialpage-gh/static/js/main.80fe2722.chunk.js",
+    "main.js.map": "/socialpage-gh/static/js/main.80fe2722.chunk.js.map",
+    "runtime-main.js": "/socialpage-gh/static/js/runtime-main.78e89279.js",
+    "runtime-main.js.map": "/socialpage-gh/static/js/runtime-main.78e89279.js.map",
+    "static/js/2.e56c55bf.chunk.js": "/socialpage-gh/static/js/2.e56c55bf.chunk.js",
+    "static/js/2.e56c55bf.chunk.js.map": "/socialpage-gh/static/js/2.e56c55bf.chunk.js.map",
+    "static/js/3.1c70887a.chunk.js": "/socialpage-gh/static/js/3.1c70887a.chunk.js",
+    "static/js/3.1c70887a.chunk.js.map": "/socialpage-gh/static/js/3.1c70887a.chunk.js.map",
+    "index.html": "/socialpage-gh/index.html",
+    "static/css/main.bea27d90.chunk.css.map": "/socialpage-gh/static/css/main.bea27d90.chunk.css.map",
+    "static/js/2.e56c55bf.chunk.js.LICENSE.txt": "/socialpage-gh/static/js/2.e56c55bf.chunk.js.LICENSE.txt",
+    "static/media/logo.c94b93a1.svg": "/socialpage-gh/static/media/logo.c94b93a1.svg",
+    "static/media/logoLarge.3a200e36.svg": "/socialpage-gh/static/media/logoLarge.3a200e36.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78e89279.js",
+    "static/js/2.e56c55bf.chunk.js",
+    "static/css/main.bea27d90.chunk.css",
+    "static/js/main.80fe2722.chunk.js"
+  ]
+}
